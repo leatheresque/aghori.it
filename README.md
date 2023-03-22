@@ -1,2 +1,2 @@
 # aghori.it
-Site redesign using Jekyll
+Jekyll redesign of the Italian Tantra site in the works..
